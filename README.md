@@ -1,4 +1,4 @@
-# Betting-Game-Server-In-C
+# Betting-Game-Server
 
 
 A betting game server accepting clients on tcp sockets, letting the  clients pick a number within a published range, and every 15 seconds  randomize a winning number, and then letting the clients know if they  won or not.
